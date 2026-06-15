@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Unemployment Analysis Using Python
 
 Horizon TechX Data Science Internship — Task 2
@@ -157,3 +158,6 @@ LinkedIn: https://www.linkedin.com/in/akanksha-srivastava-20a43623b/
 ## 📄 License
 
 This project is created for educational and internship purposes.
+=======
+# -Unemployment-Analysis-COVID
+>>>>>>> 86926d4932bcd706103d148791df913e0cf5e42e
