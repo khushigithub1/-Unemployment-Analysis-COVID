@@ -29,26 +29,33 @@ Exploratory Data Analysis (EDA) Dashboard
 
 ## 📁 Project Structure
 
+```text
 Unemployment-Analysis-COVID/
 │
 ├── data/
-│   ├── Unemployment in India.csv
+│   └── Unemployment in India.csv
 │
 ├── notebooks/
 │   ├── data_cleaning.ipynb
-│   ├── eda_analysis.ipynb
+│   └── eda_analysis.ipynb
 │
 ├── src/
 │   ├── data_loader.py
 │   ├── analysis.py
-│   ├── visualization.py
+│   └── visualization.py
 │
 ├── outputs/
-│   ├── graphs/
+│   └── graphs/
+│       ├── Unemployee_dashboard.png
+│       ├── unemployee_trend.png
+│       ├── State_wise_unemployment.png
+│       ├── urban_vs_rural.png
+│       ├── yearly_trend.png
+│       └── correlation_heatmap.png
 │
 ├── requirements.txt
-│
 └── README.md
+```
 
 ## 📊 Steps Covered
 
