@@ -19,7 +19,6 @@ Exploratory Data Analysis (EDA) Dashboard
 * COVID-19 Impact Assessment
 
 
-## 📸 Dashboard preview
 <h2>📸 Dashboard Preview</h2>
 
 <p align="center">
@@ -158,6 +157,4 @@ LinkedIn: https://www.linkedin.com/in/akanksha-srivastava-20a43623b/
 ## 📄 License
 
 This project is created for educational and internship purposes.
-=======
-# -Unemployment-Analysis-COVID
->>>>>>> 86926d4932bcd706103d148791df913e0cf5e42e
+
