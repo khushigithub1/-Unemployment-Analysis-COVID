@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Unemployment Analysis Using Python
 
 Horizon TechX Data Science Internship — Task 2
